@@ -1,4 +1,4 @@
-# README for Username Validation Script
+# README for Maxscore Validation Script
 
 ## Author Information
 - **Name:** [Your Full Name]
